@@ -10,4 +10,8 @@
 * 3x 10kΩ resistor
 
 ## required libraries
+<<<<<<< HEAD
 * EtherCard driver for the ENC28J60 https://github.com/jcw/ethercard
+=======
+* EtherCard driver for the ENC28J60 https://github.com/jcw/ethercard
+>>>>>>> origin/master
